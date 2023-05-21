@@ -1,0 +1,258 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:avalonedit="http://icsharpcode.net/sharpdevelop/avalonedit" xmlns:Wpf="clr-namespace:Microsoft.Web.WebView2.Wpf;assembly=Microsoft.Web.WebView2.Wpf" x:Class="WpfApp1.MainWindow"
+        mc:Ignorable="d"
+        Title="skidware xd" Height="324" Width="704"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStyle="None"
+        WindowStartupLocation="CenterOwner" 
+        ResizeMode="CanMinimize" 
+        ShowInTaskbar="True"
+        Icon="2.ico"
+        Topmost="True">
+    <Grid x:Name="MainGrid" Loaded="MainGrid_Loaded">
+        <Border x:Name="MainBorder"
+            Background="Transparent"
+            BorderThickness="0"
+            CornerRadius="0" RenderTransformOrigin="0.5,0.5">
+            <Grid MouseDown="Grid_MouseDown">
+                <Border CornerRadius="10" Margin="0,-29,0,327" Background="Black"/>
+                <Border CornerRadius="10" Margin="0,0,0,289" Background="#FF1B002F">
+
+
+                </Border>
+                <Border Margin="0,13,0,289" Background="#FF1B002F"/>
+                <Border Margin="0,35,0,247" Background="#FF40006F"/>
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+								x:Name="path394"
+								Stroke="#FFD5D5D5" Margin="677,51,18,263" Stretch="Fill">
+                    <Path.Data>
+                        <PathGeometry
+										Figures="M9.02817 6L0.5 11.1169V0.883095L9.02817 6Z"
+										FillRule="NonZero" />
+                    </Path.Data>
+                </Path>
+                <Border CornerRadius="10" Background="#FF40006F" Margin="0,0,669,289"/>
+                <Border Background="#FF40006F" Margin="0,13,669,289"/>
+                <Border Background="#FF40006F" Margin="25,0,669,289"/>
+                <Border CornerRadius="10" Background="#FF1B002F" Margin="0,77,0,0"/>
+                <Border Background="#FF1B002F" Margin="0,77,0,35"/>
+                <Wpf:WebView2 x:Name="ace" Margin="0,77,0,10"/>
+                <Image Margin="-40,-29,721,330" Source="/Logo — копия.png"/>
+                <Label Margin="-342,0,721,0" Content="Souldew Devs:&#xA;&#xA;UI Made by lqzv1.&#xA;API Made by Nullprotector&#xA;Using: KrnlAPI, Own API,&#xA;Avalon TextEditor by&#xA;ICSharp" Background="White" FontSize="24"/>
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+								x:Name="path40"
+								Stroke="#FFD5D5D5"
+								StrokeMiterLimit="10" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-30,-24,0,0">
+
+                    <Path.Data>
+                        <PathGeometry
+										Figures="M0.5 13C0.5 14.7239 1.18482 16.3772 2.40381 17.5962C3.62279 18.8152 5.27609 19.5 7 19.5C8.72391 19.5 10.3772 18.8152 11.5962 17.5962C12.8152 16.3772 13.5 14.7239 13.5 13C13.5 6.37 7 1.5 7 1.5C7 1.5 0.5 6.37 0.5 13Z"
+										FillRule="NonZero" />
+                    </Path.Data>
+                </Path>
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+						x:Name="path2"
+						Fill="#7d7d7d"
+						Margin="11,10,681,300"
+						Stretch="Fill"
+						Height="14"
+						Width="12">
+                    <Path.Data>
+                        <PathGeometry
+								Figures="M0 5L6 0L12 5V14H8V9H4V14H0V5Z"
+								FillRule="EvenOdd" />
+                    </Path.Data>
+                </Path>
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+									x:Name="path70"
+									Stroke="#FFD5D5D5"
+									StrokeMiterLimit="10"
+									StrokeStartLineCap="Round"
+									StrokeEndLineCap="Round" Margin="-33,-15,717,329" Stretch="Fill">
+                    <Path.Data>
+                        <PathGeometry
+											Figures="m 3.2235294 7.7529412 c -1.32 1.09999 -1.99999 2.06 -1.71999 2.6399998 0.59 1.25 5.31999 0.28 10.5799896 -2.1699998 5.26 -2.45 9 -5.46 8.46 -6.71 -0.24 -0.51 -1.17 -0.65000302 -2.54 -0.47"
+											FillRule="NonZero" />
+                    </Path.Data>
+                </Path>
+                <Path/>
+                <Button x:Name="Closeb"
+                    FontFamily="segoe fluent icons"
+                    Margin="678,8,10,300"
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Content="&#xE711;"
+                    Foreground="#FF7A7A7A"
+                    FontSize="15" Click="Closeb_Click" Cursor="Hand" FontWeight="Bold" BorderBrush="#FF272727"/>
+
+                <Button x:Name="Minimize"
+                    FontFamily="segoe fluent icons"
+                    Margin="654,8,0,0"
+                    BorderThickness="0"
+                    Background="Transparent"
+                    Content="&#xE738;"
+                    Foreground="#FF7A7A7A" Click="Minimize_Click" Cursor="Hand" FontWeight="Bold" FontSize="16" BorderBrush="#FF272727" HorizontalAlignment="Left" VerticalAlignment="Top" Height="16" Width="16"/>
+                <Image Source="Fonts\image (1).png" Margin="906,-327,-1302,5"/>
+                <avalonedit:TextEditor x:Name="Avalon" 
+                                       Background="#FF222222"
+                                       BorderBrush="#FF272727"
+                                       BorderThickness="0"
+                                       ShowLineNumbers="True"
+                                       VerticalScrollBarVisibility="Auto"
+                                       HorizontalScrollBarVisibility="Auto"
+                                       Foreground="White"
+                                       LineNumbersForeground="White"
+                                       Language="lua" VerticalAlignment="Top"  Height="236"
+                                       Text="local bebra" AutomationProperties.HelpText="типо вводи сюда скрипт, который написал в роблокс студио/нашёл в инете" SelectedText="" IsModified="True" FontSize="14" Margin="-786,-306,806,0" FontFamily="Atkinson Hyperlegible">
+                    <avalonedit:TextEditor.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="0"/>
+                        </Style>
+                    </avalonedit:TextEditor.Resources>
+                </avalonedit:TextEditor>
+
+                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+								x:Name="connect"
+								Stroke="#FFD5D5D5" Margin="44,43,634,255" Stretch="Fill">
+                    <Path.Data>
+                        <PathGeometry
+										Figures="M23 1L20.25 3.75M20.25 3.75C23.55 7.05 20.25 10.35 20.25 10.35L18.05 12.55L11.45 5.95L13.65 3.75C13.65 3.75 16.95 0.449999 20.25 3.75ZM1 23L3.75 20.25M3.75 20.25C0.45 16.95 3.75003 13.65 3.75003 13.65L5.95003 11.45L12.55 18.05L10.35 20.25C10.35 20.25 7.05 23.55 3.75 20.25ZM10.3501 10.35L7.60005 13.1M13.6501 13.65L10.9001 16.4"
+										FillRule="NonZero" />
+                    </Path.Data>
+                </Path>
+                <ListBox x:Name="List" BorderThickness="2" Margin="715,71,-148,5" Background="#FF171717" BorderBrush="#FF272727" Foreground="White" SelectionChanged="List_SelectionChanged" FontFamily="Segoe UI Semilight">
+                    <ListBox.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="10"/>
+                        </Style>
+                    </ListBox.Resources>
+                </ListBox>
+                <Button x:Name="HideListbox"
+                    Margin="536,332,138,0"
+                    BorderThickness="2"
+                    Background="#FF171717"
+                    Content="&gt;&gt;"
+                    Foreground="White" Cursor="Hand" FontSize="18" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="31" FontFamily="Atkinson Hyperlegible" BorderBrush="#FF272727" Click="SH_Click">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+                <Button x:Name="Execute"
+                    Margin="659,35,0,247"
+                    BorderThickness="2"
+                    Background="#FF171717"
+                    Content="Execute"
+                    Opacity="0"
+                    Foreground="White"
+                    FontSize="18" Click="Execute_Click" Cursor="Hand" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="45" FontFamily="Atkinson Hyperlegible" BorderBrush="#FF272727">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+                <Button x:Name="OpenFile"
+                    Margin="180,332,0,-39"
+                    BorderThickness="2"
+                    Background="#FF171717"
+                    Content="Open File"
+                    Foreground="White"
+                    FontSize="18" Cursor="Hand" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="93" FontFamily="Atkinson Hyperlegible" BorderBrush="#FF272727" Click="OpenFile_Click">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+                <Button x:Name="SaveFile"
+                    Margin="83,332,0,-39"
+                    BorderThickness="2"
+                    Background="#FF171717"
+                    Content="Save File"
+                    Foreground="White"
+                    FontSize="18" Cursor="Hand" HorizontalAlignment="Left" VerticalAlignment="Stretch" Width="92" FontFamily="Atkinson Hyperlegible" BorderBrush="#FF272727" Click="SaveFile_Click">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+                <Button x:Name="Clear"
+                    FontFamily="Atkinson Hyperlegible"
+                    Margin="20,332,0,0"
+                    BorderThickness="2"
+                    Background="#FF171717"
+                    Content="Clear"
+                    Foreground="White"
+                    FontSize="20" Click="Clear_Click" Cursor="Hand" HorizontalAlignment="Left" VerticalAlignment="Top" Height="31" Width="58" BorderBrush="#FF272727">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+                <Button x:Name="Attach"
+                    FontFamily="Atkinson Hyperlegible"
+                    Margin="36,35,0,0"
+                    BorderThickness="2"
+                    Background="#FF171717"
+                    Content=""
+                    Opacity="0"
+                    Foreground="White"
+                    FontSize="20" Click="Attach_Click" Cursor="Hand" HorizontalAlignment="Left" VerticalAlignment="Top" Width="43" Height="42" BorderBrush="#FF272727">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+                <Image Source="2.ico" Margin="9,42,673,256"/>
+                <Button x:Name="SH"
+                    Margin="9,43,674,0"
+                    BorderThickness="2"
+                    Opacity="0"
+                    Background="#FF171717"
+                    Content="Settings"
+                    Foreground="White" Cursor="Hand" FontSize="18" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="26" FontFamily="Atkinson Hyperlegible" BorderBrush="#FF272727" Click="SH_Click">
+                    <Button.Resources>
+                        <Style TargetType="{x:Type Border}">
+                            <Setter Property="CornerRadius" Value="5"/>
+                        </Style>
+                    </Button.Resources>
+                    <Button.Style>
+                        <StaticResource ResourceKey="{x:Static ToolBar.ButtonStyleKey}"/>
+                    </Button.Style>
+                </Button>
+
+
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
