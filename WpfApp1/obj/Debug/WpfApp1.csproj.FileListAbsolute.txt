@@ -1,0 +1,69 @@
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\synapsploit\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\synapsploit\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\synapsploit\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\synapsploit\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\synapsploit\WpfApp1\WpfApp1\bin\Debug\WeAreDevs_API.dll
+D:\Purpl\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Purpl\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Purpl\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Purpl\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Purpl\WpfApp1\obj\Debug\App.g.cs
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Purpl\WpfApp1\obj\Debug\MainWindow.baml
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Purpl\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\App.g.cs
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\MainWindow.baml
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\App.g.cs
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\MainWindow.baml
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.pdb

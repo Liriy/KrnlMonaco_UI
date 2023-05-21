@@ -1,0 +1,51 @@
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\skidware.csproj.AssemblyReference.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\skidware.csproj.SuggestedBindingRedirects.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\App.g.cs
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\MainWindow.baml
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\skidware.csproj.GenerateResource.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\skidware.csproj.CoreCompileInputs.cache
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\skidware.csproj.CopyComplete
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\ScriptHub.g.cs
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\obj\Debug\ScriptHub.baml
+F:\Anicord\chity\vape v5 азазаз\Purpl\WpfApp1\bin\Debug\KrnlAPI.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\KrnlAPI.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\skidware.csproj.AssemblyReference.cache
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\skidware.csproj.SuggestedBindingRedirects.cache
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\ScriptHub.g.cs
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\App.g.cs
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\MainWindow.baml
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\ScriptHub.baml
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\skidware.csproj.GenerateResource.cache
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\skidware.csproj.CoreCompileInputs.cache
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\skidware.csproj.CopyComplete
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\Microsoft.Web.WebView2.Core.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\Microsoft.Web.WebView2.Core.xml
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\ChromeTabs.dll
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\EvenutWine.exe.config
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\EvenutWine.exe
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\bin\Debug\EvenutWine.pdb
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine_Content.g.cs
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine_MarkupCompile.cache
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine_MarkupCompile.lref
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine.g.resources
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine.Properties.Resources.resources
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine.exe
+F:\Anicord\chity\vaep\purplbackup\WpfApp1\obj\Debug\EvenutWine.pdb
